@@ -10,7 +10,7 @@
 	<%
 		String str = "홍길동";
 		// document.write("str : "+str);
-		// System.out.println("str : " + str);
+		System.out.println("str : " + str);
 		out.println("<h1>" + str + "</h1>");
 	%>
 </body>
